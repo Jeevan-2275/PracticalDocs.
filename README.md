@@ -1,5 +1,5 @@
 Practical Exam Guidelines & Information
-Welcome to the Practical Exam preparation folder. This directory contains practical examination questions, system design scenarios, and detailed solutions for various core subjects.
+Welcome to the Practical Exam preparation folder. This directory contains practical examination questions, system design scenarios, and detailed solutions for various core subject.
 
 📁 Directory Structure & Subjects
 We have organized the exam resources into the following dedicated folders:
